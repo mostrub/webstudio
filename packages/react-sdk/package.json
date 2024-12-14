@@ -25,7 +25,7 @@
     "strip-indent": "^4.0.0",
     "type-fest": "^4.3.1",
     "typescript": "5.2.2",
-    "zod": "^3.21.4"
+    "zod": "^3.22.3"
   },
   "peerDependencies": {
     "@remix-run/react": "^1.19.1",
@@ -44,7 +44,7 @@
     "change-case": "^5.0.2",
     "html-tags": "^3.3.1",
     "jsep": "^1.3.8",
-    "nanoid": "^5.0.1",
+    "nanoid": "^5.0.9",
     "title-case": "^4.1.0"
   },
   "exports": {
